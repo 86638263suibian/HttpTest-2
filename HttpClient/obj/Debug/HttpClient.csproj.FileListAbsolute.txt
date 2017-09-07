@@ -1,0 +1,13 @@
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\bin\Debug\HttpClient.exe.config
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\bin\Debug\HttpClient.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\bin\Debug\HttpClient.pdb
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.Form1.resources
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.Cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\Debug\HttpClient.pdb
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.exe.config
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.pdb

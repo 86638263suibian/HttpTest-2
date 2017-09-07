@@ -1,0 +1,13 @@
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.Form1.resources
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.Properties.Resources.resources
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.GenerateResource.Cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.csproj.CoreCompileInputs.cache
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpServer.exe.config
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpServer.exe
+c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpServer.pdb
