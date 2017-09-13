@@ -11,3 +11,12 @@ c:\users\worker\documents\visual studio 2017\Projects\HttpServer\HttpClient\obj\
 c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.exe.config
 c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.exe
 c:\users\worker\documents\visual studio 2017\Projects\HttpServer\Debug\HttpClient.pdb
+D:\Repos\HttpTest\Debug\HttpClient.exe.config
+D:\Repos\HttpTest\Debug\HttpClient.exe
+D:\Repos\HttpTest\Debug\HttpClient.pdb
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.Form1.resources
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.Cache
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.exe
+D:\Repos\HttpTest\HttpClient\obj\Debug\HttpClient.pdb
